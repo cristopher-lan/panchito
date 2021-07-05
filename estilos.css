@@ -46,15 +46,17 @@ float: left;
 
 }
 .columna{
-	font-size: 10 px;
+	
 	margin: 20px;
-	width: 20%;
+	width: 30%;
 	float: left;
 
 }
 .pie{
 	clear: both;
 
+
 }
-
-
+.a{
+	font-size: 90%;
+}
